@@ -1,0 +1,12 @@
+{
+  "name": "mi-portafolio-devops",
+  "version": "0.1.0",
+  "description": "Proyecto inicial para aprender Cloud/DevOps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
